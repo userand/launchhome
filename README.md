@@ -74,7 +74,7 @@ LaunchHome 是一个纯原生 AppKit 项目,**零第三方依赖**,代码分两�
 
 | | |
 |---|---|
-| 官网(中文) | <https://launchhome.app> |
+| 官网 | <https://launchhome.app> |
 | 下载 | <https://dl.launchhome.app/LaunchHome.dmg> |
 | 购买(国内) | <https://launchhome.app/zh/buy> |
 | 「macOS 26 怎么找回启动台」指南 | <https://launchhome.app/zh/launchpad-macos-26/> |
